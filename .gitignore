@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -80,10 +79,7 @@ lib64/
 parts/
 sdist/
 var/
-<<<<<<< HEAD
-=======
 wheels/
->>>>>>> origin/training_test
 *.egg-info/
 .installed.cfg
 *.egg
@@ -337,3 +333,4 @@ python-script/annotated-preprocess/translated_tweets.csv
 
 corpus-parallel-txt/*
 local_annotated_with_ids/
+annotated/

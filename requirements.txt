@@ -1,0 +1,7 @@
+pandas
+matplotlib
+numpy
+google-generativeai
+google-genai
+tqdm
+python-dotenv
